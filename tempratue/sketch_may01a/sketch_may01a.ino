@@ -16,9 +16,9 @@
 #define D9 13 // GPIO2 maps to Ardiuno D9
 #define D10 15 // GPIO15 maps to Ardiuno D10
 
-const char* ssid     = "TP-LINK_C9C2BC";      // SSID of local network
-const char* password = "29507344";   // Password on network
-String APIKEY = "7757c1d58212e547c38e96fa4d864afd";
+const char* ssid     = "TP-LINK";      // SSID of local network
+const char* password = "*******";   // Password on network
+String APIKEY = "*********";
 String CityID = "5045360"; 
 
 
